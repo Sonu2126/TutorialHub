@@ -79,7 +79,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    https://github.com/Sonu2126/Tutorial-Hub.git
+    https://github.com/Sonu2126/TutorialHub.git
     cd Tutorial-Hub
     ```
 
